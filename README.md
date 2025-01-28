@@ -3,7 +3,7 @@
 I’m excited to dive into the fascinating world of Verilog HDL! With tools like **Model Sim** & **EDA Playground** in hand, I’ve taken my first steps into digital design and simulation. 💻⚡
 
 # Day 1 Highlights:
-I kicked things off by designing and simulating 7 fundamental logic gates i.e. AND, OR, NOT, NAND, NOR, XOR, XNOR.
+Here I'm designing and simulating 7 fundamental logic gates i.e. AND, OR, NOT, NAND, NOR, XOR, XNOR.
 
 This is just the beginning, and I’m eager to explore more complex circuits and simulations. Let’s connect, collaborate, and grow together in this exciting field! 💡✨
 
